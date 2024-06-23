@@ -1,4 +1,4 @@
-mydir=/root/documentdb
+mydir=/root
 truststore=${mydir}/rds-truststore.jks
 storepassword=storepass
 
